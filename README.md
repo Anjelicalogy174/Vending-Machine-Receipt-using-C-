@@ -1,0 +1,1 @@
+# VendingMachineReceipt-cpp
