@@ -135,7 +135,7 @@ int main()
 	if(productQty_all>0){
 	   	cout << "\n________________________________\n";
 		cout << "|                                |\n";
-		cout << "|          YOUR RECEIPT          |\n";
+		cout << "|        ANG IYONG RESIBO        |\n";
 		cout << "|                                |\n";
 	    cout << "_________________________________\n";
 	   
