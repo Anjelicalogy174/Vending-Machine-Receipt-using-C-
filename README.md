@@ -1,4 +1,4 @@
-# VendingMachineReceipt-cpp
+# Vending Machine Receipt using C++
 
 Welcome to simple vending machine program!
 
